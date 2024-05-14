@@ -24,4 +24,12 @@ console.log(findfactorial(3));
 // console.log(findfactorial(4));
 // console.log(arr.reduce((a, b) => a * b));
 
-//solution 01
+//solution 03
+// function find(number){
+//     let num = 1;
+//     for(let i =1; i<=number; i++){
+//       num *= i
+//     }
+//     return num;
+//   }
+//   console.log(find(6))
