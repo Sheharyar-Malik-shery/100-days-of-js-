@@ -8,7 +8,7 @@ for(let i = 0; i<Array.length; i++){
         if(Array[i]>Array[j]){
             let temp = Array[i]
             Array[i] = Array[j]
-            Array[j] = temp
+            Array[j] = temp 
         }
     }
 }
